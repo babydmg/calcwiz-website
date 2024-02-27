@@ -17,6 +17,7 @@ body {
 
 .btn-container {
   margin-top: 0.8rem;
+  margin-bottom: 0.8rem;
 }
 
 .button {
@@ -39,9 +40,4 @@ body {
 .button:hover {
   background: white;
   color: purple;
-}
-
-.comming-soon-text {
-  margin-top: 0.9rem;
-  font-size: 1.2rem;
 }
